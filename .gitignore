@@ -1,0 +1,17 @@
+# PowerShell / Windows
+*.log
+*.tmp
+*~
+
+# Credentials & Sensitive files
+*credential*.xml
+*secret*.ps1
+*.env
+
+# VS Code / Editors
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/
